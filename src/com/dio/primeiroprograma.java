@@ -2,7 +2,7 @@ package com.dio;
 
 import com.dio.model.Gato;
 
-public class primeiroprograma {
+public class Primeiroprograma {
 
 	public static void main(String[] args) {
 	
